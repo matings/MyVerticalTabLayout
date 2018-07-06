@@ -5,4 +5,5 @@ dependencies {
     
 //    垂直纵向的TabLayout
     implementation 'q.rorbin:VerticalTabLayout:1.2.5'
+    
 }
